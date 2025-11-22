@@ -4,5 +4,5 @@ int main(){
 int age;
 cout<<"enter your age: ";
 cin>>age;
-cout<<"your age is "<<age<<" years old";
+cout<<"your age is "<<age<<" years ";
 return 0;}
