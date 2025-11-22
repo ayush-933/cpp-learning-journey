@@ -31,6 +31,9 @@ switch(day){
     case 6:
     cout<<"saturday";
     break;
+     default:
+    cout<<"invalid input";
+
 }
 return 0;
 }
